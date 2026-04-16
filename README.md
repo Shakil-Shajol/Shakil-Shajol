@@ -64,7 +64,7 @@ I’m driven by the craft of software engineering — blending backend logic wit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shajol/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shakil-Shajol)
 [![Email](https://img.shields.io/badge/Email-shakil.bd.ngn@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakil.bd.ngn@gmail.com)
-
+[![Website](https://img.shields.io/badge/%F0%9F%8C%90-www.shajol.com-blue?style=for-the-badge)](https://shajol.com)
 ---
 
 ### ⚡ Fun Facts
